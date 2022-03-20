@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import www.hojoon.board.vo.BoardVO;
 
+
 @Controller
 public class IndexController {
 
