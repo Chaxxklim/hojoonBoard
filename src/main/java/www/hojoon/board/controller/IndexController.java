@@ -14,7 +14,6 @@ public class IndexController {
         return "index";
     }
 
-
     @RequestMapping("/boardWrite")
     public String boardWrite(Model model){
         BoardVO boardVO = new BoardVO();
